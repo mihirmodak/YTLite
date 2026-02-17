@@ -1,8 +1,8 @@
 {
-  "name": "YTLitePlus",
+  "name": "Youtube Plus",
   "identifier": "com.ytlite.source",
   "website": "https://ytliteplus.github.io",
-  "subtitle": "YTLitePlus official Altstore source.",
+  "subtitle": "Youtube Plus official Altstore source.",
   "description": "This is an Altstore source for YTLitePlus.\n\nYTLitePlus is an enhanced Youtube app that offers a superior Youtube experience, combining YTLite (by @dayanch96) with numerous other tweaks.\n\nFor full details on what's included, check the GitHub repository:\n\nhttps://github.com/mihirmodak/YTLite",
   "tintColor": "e22a41",
   "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
@@ -10,7 +10,7 @@
   "apps": [
     {
       "beta": false,
-      "name": "YTLitePlus",
+      "name": "Youtube Plus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Various Developers",
       "subtitle": "YTLite with more features!",
@@ -68,7 +68,7 @@
           "version": "21.06.2",
           "date": "2026-02-16",
           "localizedDescription": "Current YouTube IPA: \"21.06.2\"  \nCurrent YTLite Version: \"5.2b4\"  \nCurrent App Compatibility: \"iOS/iPadOS 15.0\" or later\n\nRELEASE 21.06.2-5.2b4: (2026-02-16)\n\n• Updated Youtube to \"21.06.2\"\n• Updated YTLite to \"5.2b4\"\n\nIssues in this Release:\n• LowContrastMode does not work *(Compatible only with YouTube v17.33.2-v17.38.10)*\n• Hiding Shorts creates an empty space instead #55",
-          "downloadURL": "https://github.com/mihirmodak/YTLite/releases/download/ytp-1/YTLitePlus_21.06.2_5.2b4.ipa",
+          "downloadURL": "https://github.com/mihirmodak/YTLite/releases/download/ytp-1/YouTubePlus_5.2b4.ipa",
           "size": 131422849
         },
         {
